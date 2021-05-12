@@ -1,2 +1,2 @@
 # Ray-Tracing
-A simple Python ray tracer
+A ray tracer written in Python
